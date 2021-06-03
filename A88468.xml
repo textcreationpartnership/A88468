@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentation of the ruling lay-elders. Sadly bemoaning the death of their late foster-father Sir Iohn Presbyter, deceased. With the resolutions both of them, and the Presbyterian priests, in all obedience to the Parliament and people in whatsoever they shall or will command.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88468</idno><idno type="EEBO-CITATION">99862248</idno>
+  <idno type="VID">160399</idno>
+  <idno type="EEBO-PROQUEST">2248530069</idno>
+  
+            <idno type="STC">Wing L288</idno>
+            <idno type="STC">Thomason E400_14</idno>
+            <idno type="STC">Thomason E402_1</idno>
+            <idno type="STC">ESTC R201748</idno>
+            <idno type="PROQUEST">99862248</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862248e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160399)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[14] or 64:E402[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentation of the ruling lay-elders. Sadly bemoaning the death of their late foster-father Sir Iohn Presbyter, deceased. With the resolutions both of them, and the Presbyterian priests, in all obedience to the Parliament and people in whatsoever they shall or will command.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Pagination begins on the t.p. verso.</note>
+                  <note>Annotation on Thomason copy E.400[14]: "July 29"; on copy E.402[1]: "Aug: 14".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="meeting_name">Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160399:1"/>
+            <p>THE LAMENTATION of the Ruling LAY-ELDERS.</p>
+            <p>Sadly bemoaning the death of their late foster-Father <hi>Sir Iohn Presbyter,</hi> deceased.</p>
+            <p>With the Resolutions both of them, and the Presbyteri<g ref="char:EOLhyphen"/>an Priests, in all obedience to the Parliament and people in whatsoever they shall or will command.</p>
+            <p>Printed in the Yeare 1647. <add>July .29.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160399:2"/>
+            <head>The Elders Lamentation, for the un<g ref="char:EOLhyphen"/>timely End of Sir <hi>John Presbyter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas to the unspeakeable griefe of our hearts, wee the Lay-Elders of the City of <hi>London</hi> and <hi>Westminster</hi> have lately had just occasion to humble our selves for the untimely death of our indulgent Father Sir <hi>John Presbyter,</hi> lately decea<g ref="char:EOLhyphen"/>sed, since whose death we are become a scorne and reproach to all the Com<g ref="char:EOLhyphen"/>mons of England &amp;c. We therefore out of a pious care of the preservation of us, our wives, and families; and as well to shelter our selves from the storme we so evident<g ref="char:EOLhyphen"/>ly see falling upon us, have thought fit to demonstrate to all the world our reall intentions and resolutions, as well in our own behalfes, as the behalfes of all those that have or do exercise the Presbyterian Function, whether Pastors, Deacons, or El<g ref="char:EOLhyphen"/>ders &amp;c.</p>
+            <p n="1">1. We shall forbeare the Catechising of all that are of m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re knowledge, and better judgements then our selves, and shall send our servant or Minister to every house respectively in your Parish to give you timely notice thereof, and to invite you to the spiri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uall banquet, that we may once more unite our selves in a band of unity and concord, and be at charity amongst our slves, and so the better inabled to stand up as on man against that damnable demanding and commanding Army of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairefax.</hi>
+            </p>
+            <p n="2">2. We shall hereafter forbeare the frequenting of all Ta<g ref="char:EOLhyphen"/>vernes, Alehouses, Brothells, and the like, on the Sunday or Sab<g ref="char:EOLhyphen"/>bath
+<pb n="2" facs="tcp:160399:2"/> dayes, and whereas we were wont to go six or seven to<g ref="char:EOLhyphen"/>gether, wee shall hereafter visit them one by one on the wor<g ref="char:EOLhyphen"/>king dayes, dealing with sinners by all faire meanes, and not by force or c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpulsion drawing them and woing them to leave their lewd courses, even as two of our Predecessors woed <hi>Su<g ref="char:EOLhyphen"/>sanna.</hi> Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugh many have likened us to be Leeks, with white hoary-heads, and green tailes, not considering we are <hi>Ealder<g ref="char:EOLhyphen"/>men,</hi> that is as much as to say <hi>Eldermen,</hi> and so of more honour then Aldermen, and so without doubt derived from the word <hi>Earles,</hi> as you may re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in <hi>Ʋerstegan:</hi> We denie our selves to be spir<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ual <hi>Elders,</hi> and shall d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> joine (if y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u thinke meet) with <hi>Ecclesiasticall</hi> aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ires, and turne <hi>Aldermen</hi> or <hi>Earles,</hi> or whatsoever you shall thinke us fitting to be: We shall also if you please be called <hi>Seniors,</hi> and <hi>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andees</hi> of the times; but we b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>seech you brethren not to terme us by the odious nick names of <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aven drivers,</hi> Dotterells, and the like; and we do hereaf<g ref="char:EOLhyphen"/>ter pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ise and vow in our owne names, and in the names of ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God-<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>rs and God-mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers, of the Kingdome of Scot<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> monies that we have already taken from you, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and from a company of dry fellowes (that must ne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inke a Sundayes) shall be imployed to these religious uses following, <hi>viz.</hi>
+            </p>
+            <p>To build a large and spacious Stewes, accommodated with faire walkes, A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bours, and fountaines, and the like; and that there be chosen out of our severall Parishes (by us the Civill Lay-Elders) ten of the fairest yong Virgins of every Parish, or as neede requires (when ten sometimes will hardly serve one) provided they be Presbyterian, being more proper for us old men, that are become twice children, to be fu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nished with play<g ref="char:EOLhyphen"/>fellowes fitting for us, then to have the rule of Churches: To which purpose, that one Elder of every Parish shall be forth<g ref="char:EOLhyphen"/>with sent to Dr. <hi>Cornelius B.</hi> who hath lately left him by will certaine Timber, and Frieze-stones, by his Father Sir <hi>John Pres<g ref="char:EOLhyphen"/>byter,</hi> that he the said Dr. be desired to give, or sell at some easie rate, the said timber and stones for the pious uses aforesaid. And that the said Dr. shall have egresse and regresse through the same, both for him and his wife, or any of the rest of his venera<g ref="char:EOLhyphen"/>ble Brethren, and stable-roome for his Nagge: And the said
+<pb n="3" facs="tcp:160399:3"/> structure to be raised with all speed.</p>
+            <p n="3">3. Being very sensible of our present condition, That we re<g ref="char:EOLhyphen"/>qui<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the said Ministers or servants belonging to our severall Pa<g ref="char:EOLhyphen"/>rishes to be more moderate, and a little to forbeare their treaso<g ref="char:EOLhyphen"/>nous expressions against his Majesty, to rave or raile against In<g ref="char:EOLhyphen"/>dependents, and to blame the Parliament in some measure; in that they have lately sought their owne private interests, and not the glory of God, and good of his Church; That the great worke of Reformation hath been carryed on very coldly, very deadly, and not with that vigour and life, that so great and re<g ref="char:EOLhyphen"/>ligious a worke requires; by which meanes we shall by de<g ref="char:EOLhyphen"/>grees creepe into the aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions of the people, and the better side with the dissenting Members of the House of Commons, perswading the people, that the Independents have no reall intentions towards his Majesty; but that they will proclaime him guilty of all the blood that hath lately been shed in these wars, and bring him to a tryall for the same after they have ef<g ref="char:EOLhyphen"/>fected their owne treasonous designes; therefore let us make diligent search in all the bookes put out by the said Indepen<g ref="char:EOLhyphen"/>dents formerly against his Majesty, which will be very advanta<g ref="char:EOLhyphen"/>gious to our designe in hand, to make them odious to the peo<g ref="char:EOLhyphen"/>ple, and to regaine our formerly last credits, in which time we may underhand list Souldiers, and quickly get a power suffici<g ref="char:EOLhyphen"/>ent to resist the Army; especially considering the great influ<g ref="char:EOLhyphen"/>ence we have over Apprentices, yong Freemen, Watermen, and the like, which we are very likely to gaine by our late peti<g ref="char:EOLhyphen"/>tion in gathering of hands, to which end we have used our old art of specious pretentions being for the good of his Majesty, to place him and his children in their just Rights, and to main<g ref="char:EOLhyphen"/>taine the Protestant Religion, and the known Lawes of the Land—but this in private—yet we make no question but some Independent will be ready to say, that we have already divided the King from his Parliament, truct with the Scots for a Reli<g ref="char:EOLhyphen"/>gion like themselves, and their Country, and broken all the knowne Lawes of the Land, robbed the King of the R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>venue belonging to his Crowne and Dignity, divorst him from his Wife, and deare Children, prosecuted a most horrid and bloo<g ref="char:EOLhyphen"/>dy Rebellion that ever was knowne to be in any Nation; rob<g ref="char:EOLhyphen"/>bed
+<pb n="4" facs="tcp:160399:3"/> him of the hearts of his Subjects, hanged and butchered many of his loyall Subjects, kept him their prisoner, and plun<g ref="char:EOLhyphen"/>dered free Denizens and Subjects only for maintaining their Oath of Allegiance to his Majesty, according to their bounded duty; and all this acted quite contrary to the knowne Lawes of the Land, and the actors as lyable to receive punish<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent for all this, as any thiefe that ever suffered at Tybu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne. N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, they will not stick to tell us, we have not on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y done all this, but we have sought to make all our owne, whilst we have brought our selves to the Proverb, <hi>All covet, all lose.</hi>
+            </p>
+            <p>Alas poore <hi>Independents,</hi> this you m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y pretend, and lay to the charge of us innocent <hi>Presbyters,</hi> that have no more harme in us then a <hi>Devill of ten yeares old,</hi> though we are hardly christe<g ref="char:EOLhyphen"/>ned or knowne by our names in this Kingdome; yet we are become more odious in this our infancy, then ever the Bishops were in old age: We were fully contented with their places, and fat Benefices, and would have been very well content to have kept their wives with the sweat of our bodies, on conditi<g ref="char:EOLhyphen"/>on if we might enjoy them quickly: And truely brethren our Ministers should have choaked the people with dusting the cushion in their spirituall pangs, till wee were (by the helpe of a <hi>Scotch Midwife</hi>) delivered of so dreadfull a<note place="margin">A child like the Father, or the true character of a Pres<g ref="char:EOLhyphen"/>byter.</note> Monster, that all her Majesties Beares could never lick into any forme: In his mouth were to be seen blasphemies, treasons, tautologies, and the like, under his forked tongue was the poyson of <hi>Aspes,</hi> ray<g ref="char:EOLhyphen"/>lings, and cursed speeches, his face was like the face of a Pres<g ref="char:EOLhyphen"/>byter, in his clawes was a bloody devouring sword, his feete were swift to shed <hi>innocent blood,</hi> from him proceeded rebelli<g ref="char:EOLhyphen"/>ons, pride, lust, sacriledge, and the like; with such an abomi<g ref="char:EOLhyphen"/>nable abundance of impieties never before thought of. This Monster was borne in nasty Scotland, wrapt up in an old cloak<g ref="char:EOLhyphen"/>bagge, and sent to Westminster to nruse, and in the space of 4 yeeres, is become so untoward a Chit, that to give you his true character, or draw him forth to the life, would adde blacknesse to my inke, and palenesse to my paper, and infuse a kinde of trembling palsie into my fainting hand, that I should be forced abruptly to breake off, and write only <hi>Finis, &amp;c.</hi>
+            </p>
+            <div type="part">
+               <pb n="5" facs="tcp:160399:4"/>
+               <head>The Priests resolution, and motion to the People.</head>
+               <p>WEe shall in the next place demonstrate our obedience unto the Parliament and people, stedfastly purposing to turne over a new leafe, and learne a new lesson: and to side with what Religion soever the State shall thinke fit: If you will have us be Anabaptists, Brownists, or the like, we good honest minded Priests, shall be content, so you will but let us still enjoy our fat Benefices, and confirme on us the Bishops Lands, and the holy Ordinance for Tithes, wee shall in all obedience con<g ref="char:EOLhyphen"/>forme to any thing you will have us. I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you desire to have the Service Booke read againe in your Churches, you shall have it: if the Directory, 'tis all one to us: if you will hav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Altars again, Crosses and cringing, with holy water, Auricular Confession, Penance, Altar-worship, and Saint-worship too, we shall bee content, so it contents you: and truly (if you shall thinke it fit<g ref="char:EOLhyphen"/>ting) we shall be content that there be some harmlesse Recre<g ref="char:EOLhyphen"/>ations allowed the Youth both of the City and Country, on the Sabbath or Lords day; as Dancing, Bowling, Drinking, Drab<g ref="char:EOLhyphen"/>bing, or the like, it may prove a great incouragement to the yong men, and will make them the willinger to perform their labours on the working dayes. And whereas we have formerly altered our Religions, even as the Prince, or the times required; as in the reigne of King <hi>Henry</hi> the Eight, when hee was a Pa<g ref="char:EOLhyphen"/>pist, we (good men) made no scruple to be Papists; when hee turnd Protestant, we turnd Protestants too: then in the reigne of Queene <hi>Mary</hi> presently after, we turnd Papists againe: then Protestants againe in Queene <hi>Elizabeths</hi> Reigne; and so wee shall still turne to whatsoever you will have us, so you will not turne us out of our goodly fat Benefices, that were an ill turne indeed, to expose us to The good will of the vulgar; that vexes us to the guts, and makes our very bowels to earne: Oh the hea<g ref="char:EOLhyphen"/>venly consideration of the blessed tithe pigs, capons, geese, &amp;c. O let s but quietly enjoy our livings, and tithes, and wee shall give you all cause to rejoice, from the highest to the lowest, from the King to the beggar, then we shall be as free from fear as from honesty: then we shall have a brave world for them that
+<pb n="6" facs="tcp:160399:4"/> shall live in't; you shall have free exercise of your Religion in houses, or any where else: you shall not be nick-named, Ana<g ref="char:EOLhyphen"/>baptists, Brownists, Antinomians, and the like; you shall have the ancient Holy dayes observed, Crosses restored to their gold<g ref="char:EOLhyphen"/>en glory (and by the leave of Dr. <hi>Burges</hi>) Pauls shall once mor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> recover his ancient Organ-pipes, Saints-dayes; Feasts, and Wakes shall be againe solemnized, by the friendly assistance of Fidlers, Players, Juglers, May-poles, and Morrice-dances; if this New Reformation will please you, it will assuredly please us; this will questionlesse produce a peace to some purpose; then farewell feares, farewell jealousies, farewell plots, fare<g ref="char:EOLhyphen"/>wel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> petition<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and gathering of hands, all things that you can wish shalbe g anted, without asking. What thinke you of this Independents? will it not be a happy age? will you not fling downe your Armes for joy, and side with us now? we are your kindred, your friends and neighbours; wee can allow you to have the placing of the King in his Throne, be the restorers of the Kingdomes Lawes, and regainers of your lately lost Liber<g ref="char:EOLhyphen"/>ties, release your Prisoners, choose a new Parliament, and have the freedome of the Gospell: We beseech you to accept of the honour whilest it is offered you: if ye will not listen unto us, we purpose to continue our old trades still, in renewing and prose<g ref="char:EOLhyphen"/>cuting dissentions, of raysing a bloudy war, till we (like the ty<g ref="char:EOLhyphen"/>rant <hi>Nero</hi>) have ript up the tender bowels of our dear Mother, our Native Country, and make no conscience to fight against our owne lawfull King, the anointed of the Lord, and against our owne Lawes, and dearly purchased Liberties, though wee become even the prodigy of the times, and the shame of all Na<g ref="char:EOLhyphen"/>tions.</p>
+            </div>
+            <div type="postscript">
+               <pb n="7" facs="tcp:160399:5"/>
+               <head>Postscript.</head>
+               <p>MOst wicked Elders, and Presbyterian Priests, if you persist in your desperate designes to renew a second war, where will you hereafter bestow your selves while ye live, and whether will ye go when ye die? What Countrey will entertaine you? What people will trust you? Heaven doubtlesse will exclude you? And Hell be too hot for you: Therefore blush for shame ye Bastards of England (for legitti<g ref="char:EOLhyphen"/>mate children ye cannot be) that prosecute such horrid actions, and hatch such Crocadiles egges of Rebellion and murther, that the very Infidells, Pagans, Turkes, Saracens, and no Nation (thoagh never so barbarous and cruel) but would shame to owne. Though ye feare not man, yet you ought to feare God, whose al-seeing eye beholds your clo<g ref="char:EOLhyphen"/>sest plots, and contrivances, and will undoubtedly repay vengeance to all the enemies of peace and truth, <hi>Vale.</hi>
+               </p>
+               <closer>God save <hi>King Charles,</hi> and Sir <hi>Thomas Fairefax,</hi> and preserve this Nation.</closer>
+            </div>
+            <div type="poem">
+               <head>The Elders Lamentation.</head>
+               <l>I Cannot chuse but laugh at your distresse,</l>
+               <l>And joyfull be at your great heavinesse.</l>
+               <l>Since you such paines have tane in making way</l>
+               <l>To others ruines, now see your owne decay:</l>
+               <l>You roote and branch did pull the Bishops up,</l>
+               <l>And now your selves must drink of the same cup.</l>
+               <l>You'd best complaine toth' King, and let him know,</l>
+               <l>That you want <hi>truth,</hi> and <hi>justice</hi> here below,</l>
+               <l>Make him to know your wants, perhap; that he</l>
+               <l>May prescribe you <hi>hempe,</hi> to ease your misery.</l>
+               <l>The only way I know to make you well,</l>
+               <l>And send you to your Father <hi>Jack</hi> in hell</l>
+               <l>
+                  <hi>Is to let all the people say Amen.</hi>
+               </l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
